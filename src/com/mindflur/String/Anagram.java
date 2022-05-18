@@ -2,7 +2,7 @@
 /*Two Strings are called the anagram if they contain the same characters. However, 
  * the order or sequence of the characters can be different.
  * */
- 
+ //welcome to anagram
 package com.mindflur.String;
 
 import java.util.Arrays;
