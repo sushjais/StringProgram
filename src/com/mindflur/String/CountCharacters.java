@@ -1,6 +1,6 @@
 //1) Java Program to count the total number of characters in a string
 package com.mindflur.String;
-
+//strin program updated
 import java.util.Scanner;
 
 public class CountCharacters {
